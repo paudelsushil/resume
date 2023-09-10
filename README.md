@@ -1,7 +1,7 @@
 <h1 style="text-align:center; color:green;"> Sushil Paudel</h1>
 
 
-(![Sushil Paudel](<Profile Picture .jpg>))
+![Sushil Paudel](<Profile Picture .jpg>)
 
 
 <h2 style ="text-align:left; color:orange;">Education</h2>
